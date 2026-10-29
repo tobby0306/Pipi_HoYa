@@ -1,4 +1,4 @@
-# 🦙 羊駝 (Coco) 角色固定提示詞
+# 🦙 羊駝 (Paypay) 角色固定提示詞
 
 ## 📌 角色特徵表 (Character Visual Sheet)
 
@@ -17,7 +17,7 @@
 ### 英文版 (適用於 Midjourney / Stable Diffusion / DALL-E)
 
 ```text
-(masterpiece, best quality:1.2), 3D animation style, Pixar style, cute adorable fluffy white alpaca named Coco, pure cream-white curly fleece, dense cloud-like woolly texture, slender fluffy neck, upright ears with soft pink interior, large glossy dark eyes with gentle eyelashes, sweet calm peaceful smile, standing gracefully on four legs, cute puff tail, soft studio lighting, octanerender, smooth 3D render, highly detailed fur, clean neutral background
+(masterpiece, best quality:1.2), 3D animation style, Pixar style, cute adorable fluffy white alpaca named Paypay, pure cream-white curly fleece, dense cloud-like woolly texture, slender fluffy neck, upright ears with soft pink interior, large glossy dark eyes with gentle eyelashes, sweet calm peaceful smile, standing gracefully on four legs, cute puff tail, soft studio lighting, octanerender, smooth 3D render, highly detailed fur, clean neutral background
 ```
 
 ### 負向提示詞 (Negative Prompt)

@@ -13,7 +13,7 @@
 * **角色外觀標記（防混染短標籤）**：
   * **Pipi**：`cute red toy poodle, curly cinnamon fur, blue collar with silver bone tag "Little Pi"`
   * **Hoya**：`chibi anthropomorphic tiger cub, bipedal standing, golden ingot crown, red ceremonial cape with gold fringe tassels`
-  * **Coco**：`cute fluffy white alpaca, cloud-like wool, large dark eyes, peaceful smile`
+  * **Paypay**：`cute fluffy white alpaca, cloud-like wool, large dark eyes, peaceful smile`
   * **Kelly**：`young Asian woman, wavy brown hair, turquoise off-the-shoulder bohemian maxi dress`
   * **Tobby**：`young Asian man, short curly dark hair, round wireframe glasses, teal green t-shirt, khaki pants`
 

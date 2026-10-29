@@ -12,7 +12,7 @@
 
 * **[Pipi]**: `a cute red toy poodle with curly cinnamon fur, blue collar with silver bone tag, pink tongue sticking out`
 * **[Hoya]**: `a cute chubby anthropomorphic tiger cub with golden crown, wearing a ceremonial red cape with gold tassels, bipedal standing`
-* **[Coco]**: `a fluffy pure white alpaca with dense cloud-like wool, gentle peaceful expression`
+* **[Paypay]**: `a fluffy pure white alpaca with dense cloud-like wool, gentle peaceful expression`
 * **[Kelly]**: `a young Asian woman with long wavy brown hair, wearing a turquoise off-the-shoulder bohemian maxi dress`
 * **[Tobby]**: `a young Asian man with curly brown hair, round wireframe glasses, wearing a teal green t-shirt and khaki pants`
 * **[統一畫風詞]**: `3D animation style, Pixar style, octanerender, highly detailed, soft warm lighting, masterpiece`
@@ -45,14 +45,14 @@ strolling happily on a sun-dappled park pathway, lush green trees, bright sunny 
 ---
 
 ### 3. 全體大合照 (Full Cast Group Photo)
-> **場景**：客廳溫馨全家福沙發合照（Tobby、Kelly、小皮、虎爺、羊駝 Coco）。
+> **場景**：客廳溫馨全家福沙發合照（Tobby、Kelly、小皮、虎爺、羊駝 Paypay）。
 ```text
 (masterpiece, best quality:1.2), 3D animation style, Pixar style, a joyful group photo in a cozy modern living room:
 Kelly sitting on the sofa in her turquoise off-the-shoulder dress with a warm smile;
 Tobby next to her with curly hair and round glasses in his teal t-shirt;
 Little Pi the cute fluffy red poodle sitting happily on Kelly's lap;
 HoYa the chibi standing tiger cub with golden crown and red cape perched cutely on the sofa armrest waving a paw;
-Coco the ultra-fluffy white alpaca peeking its head from behind the sofa peacefully;
+Paypay the ultra-fluffy white alpaca peeking its head from behind the sofa peacefully;
 warm ambient living room lighting, indoor plants, cozy home setting, delightful heartwarming expression
 ```
 

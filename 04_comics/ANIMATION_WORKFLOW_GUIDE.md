@@ -20,7 +20,7 @@
 | :--- | :--- | :--- |
 | **小皮 (Pipi)** | 興奮搖尾巴、吐舌頭喘氣、開心奔跑 | `Little Pi wagging fluffy tail joyfully, panting happily with tongue out, hopping forward on grass, cute bouncy movement` |
 | **虎爺 (HoYa)** | 揮手打招呼、神氣叉腰、眨眼睛 | `HoYa waving cute paw friendly, golden eyes blinking gently, golden lucky sparkles floating around crown, red cape fluttering softly in breeze` |
-| **Coco (羊駝)** | 咀嚼青草、微風吹拂絨毛、呆萌歪頭 | `Coco chewing calmly with gentle smile, ears twitching slightly, soft wind fluttering through cloud-like white wool, serene movement` |
+| **Paypay (羊駝)** | 咀嚼青草、微風吹拂絨毛、呆萌歪頭 | `Paypay chewing calmly with gentle smile, ears twitching slightly, soft wind fluttering through cloud-like white wool, serene movement` |
 | **Kelly / Tobby** | 轉頭微笑道歉、拍照按快門、牽手散步 | `Kelly smiling warmly turning towards camera, hair gently blowing in wind / Tobby adjusting his round glasses with a friendly chuckle` |
 
 ---
@@ -40,5 +40,5 @@
 | 秒數 | 鏡頭功用 | 畫面內容範例（以馬丘比丘為例） |
 | :--- | :--- | :--- |
 | **0 ~ 3 秒**<br>*(Hook 抓眼球)* | 超萌特寫 (Close-Up) | 鏡頭特寫小皮圓滾滾的無辜大眼睛與微吐舌頭，突然耳朵豎起，轉頭看向遠方。 |
-| **3 ~ 10 秒**<br>*(發展與歡樂)* | 廣角全景 (Wide Angle) | 鏡頭拉遠展開：Coco 正在馬丘比丘梯田上放空咀嚼，小皮歡快地繞著 Coco 轉圈圈奔跑，虎爺站在石牆上威風地比讚。 |
+| **3 ~ 10 秒**<br>*(發展與歡樂)* | 廣角全景 (Wide Angle) | 鏡頭拉遠展開：Paypay 正在馬丘比丘梯田上放空咀嚼，小皮歡快地繞著 Paypay 轉圈圈奔跑，虎爺站在石牆上威風地比讚。 |
 | **10 ~ 15 秒**<br>*(收尾定格)* | 溫馨中景 (Medium Shot) | Kelly 拿著手機跟大家自拍，Tobby 推著眼鏡笑著入鏡，虎爺和小皮撲向鏡頭，畫面定格在拍立得相框效果。 |
